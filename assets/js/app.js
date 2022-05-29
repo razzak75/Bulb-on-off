@@ -126,9 +126,9 @@ h1.lastElementChild.previousElementSibling.style.color= 'red'
 h1.firstElementChild.style.color= 'blue'
 
 
-for (let i = 0;  i <h1.children.length; i++) {
-   if (h1.children[0].innerHTML ==='ame') {
-        h1.children[i].innerHTML= 'sdfd '
-   }
-}
+// for (let i = 0;  i <h1.children.length; i++) {
+//    if (h1.children[0].innerHTML ==='ame') {
+//         h1.children[i].innerHTML= 'sdfd '
+//    }
+// }
  
